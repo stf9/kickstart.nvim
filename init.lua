@@ -569,8 +569,8 @@ local servers = {
   gopls = {},
   pyright = {},
   rust_analyzer = {},
-  psalm = {},
-
+  -- php:
+  -- psalm = {},
   tailwindcss = {},
   tsserver = {},
   html = { filetypes = { 'html', 'twig', 'hbs' } },
